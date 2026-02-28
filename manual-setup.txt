@@ -74,7 +74,7 @@ export default config;
 
 //.env
 
-PORT=3000
+PORT=5001
 NODE_ENV=development
 
 6. Global Error Handling

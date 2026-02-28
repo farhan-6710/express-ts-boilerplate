@@ -92,7 +92,7 @@ export default config;
 **`.env`:**
 
 ```env
-PORT=3000
+PORT=5001
 NODE_ENV=development
 ```
 
